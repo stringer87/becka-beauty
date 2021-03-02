@@ -1,0 +1,2 @@
+(this["webpackJsonpbecka-beauty"]=this["webpackJsonpbecka-beauty"]||[]).push([[0],{9:function(e,t,c){"use strict";c.r(t);var n=c(0),a=c.n(n),s=c(3),r=c.n(s),b=c(1);var i=function(){return Object(b.jsx)("div",{className:"App"})};r.a.render(Object(b.jsx)(a.a.StrictMode,{children:Object(b.jsx)(i,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.92eb34cf.chunk.js.map
